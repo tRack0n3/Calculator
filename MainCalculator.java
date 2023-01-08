@@ -45,8 +45,8 @@ public class MainCalculator {
                 answer = digit1 * digit2;
                 break;
             }
-
         System.out.println(answer);
+
 
 
 
